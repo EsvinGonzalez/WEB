@@ -1,0 +1,12 @@
+{
+  "name": "appweb-simple",
+  "version": "1.0.0",
+  "description": "App web simple con Node.js que muestra un nombre",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
